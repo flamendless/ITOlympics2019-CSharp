@@ -1,6 +1,0 @@
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/obj/x86/Debug/ITOlympics2019.csprojAssemblyReference.cache
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/obj/x86/Debug/ITOlympics2019.csproj.CoreCompileInputs.cache
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/bin/Debug/ITOlympics2019.exe
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/bin/Debug/ITOlympics2019.pdb
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/obj/x86/Debug/ITOlympics2019.exe
-/home/brbl/Development/CSharp/ITOlympics2019/ITOlympics2019/obj/x86/Debug/ITOlympics2019.pdb

@@ -13,4 +13,4 @@ This repository contains the solutions to the problems given in the IT Olympics 
 
 # To Run/Test with Monodevelop
 
-Import the .sln file using Monodevelop then hit the run. You can change the variable `do_all` to `false` and change the `current_question` to test individually. If `do_all` is `true`, it will test all problems.
+Import the .sln file using Monodevelop then hit the run button. In `Program.cs`, you can change the variable `do_all` to `false` and change the `current_question` to test individually. If `do_all` is `true`, it will test all problems.
