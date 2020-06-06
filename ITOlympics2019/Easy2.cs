@@ -12,6 +12,7 @@ namespace ITOlympics2019
             Remove all duplicates in the string.
             Remove all spaces, numbers, and special characters in the string.
             Convert all character in the string to lowercase.
+            Then add all the ASCII value of the modified string
             ";
             Console.WriteLine(problem);
 
